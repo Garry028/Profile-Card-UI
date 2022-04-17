@@ -5,7 +5,7 @@
 body {
   color: #2b2c48;
   font-family: "Jost", sans-serif;
-  background-image: url(https://images.unsplash.com/photo-1566738780863-f9608f88f3a9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2378&q=80);
+  background-image: url(/Images/background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -216,6 +216,7 @@ body {
     rgba(207, 204, 255, 0.2) 44%,
     rgba(211, 226, 255, 0.4) 100%
   );
+  
 }
 .card-section {
   display: none;
